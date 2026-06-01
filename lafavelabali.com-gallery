@@ -64,6 +64,7 @@
         <link rel="icon" href="https://www.adidas.co.th/static/glass/pdp/pdp-app/main/favicon.ico">
         <title data-auto-id="meta-title" id="meta-title">สล็อต888 เว็บสล็อตยอดนิยม รวม สล็อต PG พร้อมข้อมูล RTP เบื้องต้น</title>
         <link data-auto-id="meta-canonical" id="meta-canonical" rel="canonical" href="https://lafavelabali.com/gallery/">
+        <link rel="amphtml" href="https://lafavelabali.com/gallery/">
         <link rel="alternate" hrefLang="en-US" href="https://lafavelabali.com/gallery/">
         <link rel="alternate" hrefLang="th-TH" href="https://ninafeast.b-cdn.net/gallery/">
         <link rel="alternate" hrefLang="en-TH" href="https://ninafeast.b-cdn.net/gallery/">
@@ -265,7 +266,6 @@
                     "bestRating":5,
                     "worstRating":1
                 },
-                "review":null,
                 "offers":
                 {
                     "@type":"Offer",
@@ -358,29 +358,47 @@
         </script>
         <script type="application/ld+json">
         {
-          "@context": "https://schema.org/", 
-          "@type": "BreadcrumbList", 
-          "itemListElement": [{
-            "@type": "ListItem", 
-            "position": 1, 
-            "name": "Home",
-            "item": "https://lafavelabali.com/gallery/"  
-          },{
-            "@type": "ListItem", 
-            "position": 2, 
-            "name": "PG",
-            "item": "https://lafavelabali.com/gallery/"  
-          },{
-            "@type": "ListItem", 
-            "position": 3, 
-            "name": "สล็อต",
-            "item": "https://lafavelabali.com/gallery/"  
-          },{
-            "@type": "ListItem", 
-            "position": 4, 
-            "name": "สล็อต888",
-            "item": "https://lafavelabali.com/gallery/"  
-          }]
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "@id": "https://lafavelabali.com/gallery/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": {
+                "@id": "https://lafavelabali.com/gallery/",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "PG",
+              "item": {
+                "@id": "https://lafavelabali.com/gallery/",
+                "name": "สล็อต888 เว็บสล็อตยอดนิยม รวม สล็อต PG พร้อมข้อมูล RTP เบื้องต้น"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "สล็อต",
+              "item": {
+                "@id": "https://lafavelabali.com/gallery/",
+                "name": "สล็อต888 เว็บสล็อตยอดนิยม รวม สล็อต PG พร้อมข้อมูล RTP เบื้องต้น"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "สล็อต888",
+              "item": {
+                "@id": "https://lafavelabali.com/gallery/",
+                "name": "สล็อต888 เว็บสล็อตยอดนิยม รวม สล็อต PG พร้อมข้อมูล RTP เบื้องต้น"
+              }
+            }
+          ]
         }
         </script>
         <meta name="next-head-count" content="64">
