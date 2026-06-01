@@ -154,7 +154,7 @@
             {
                 "@context":"https://schema.org",
                 "@type":"OnlineStore",
-                "name":"adidas TH"
+                "name":"adidas TH",
                 "url":"https://lafavelabali.com/gallery/",
                 "logo":"https://res.cloudinary.com/confirmed-web/image/upload/v1713789228/adidas-group/media/pictures-videos/adidas_company_logo_qkkgem.jpg",
                 "contactPoint":
@@ -311,83 +311,6 @@
                     "suggestedGender":"Unisex"
                 },
                 "size":"3.5 UK"
-            },
-            {
-                "@context":"https://schema.org",
-                "@type":"Product",
-                "url":"https://lafavelabali.com/gallery/",
-                "sku":"JS0380_540",
-                "brand":
-                {
-                    "@type":"Brand",
-                    "name":"adidas"
-                },
-                "image":
-                [
-                "https://images.squarespace-cdn.com/content/6a1d59a6057a381f7532994f/156e9759-8f78-43e0-a343-79ba1f9a76ac/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95888.png",
-                "https://images.squarespace-cdn.com/content/6a1d59a6057a381f7532994f/156e9759-8f78-43e0-a343-79ba1f9a76ac/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95888.png",
-                "https://images.squarespace-cdn.com/content/6a1d59a6057a381f7532994f/156e9759-8f78-43e0-a343-79ba1f9a76ac/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95888.png",
-                "https://images.squarespace-cdn.com/content/6a1d59a6057a381f7532994f/156e9759-8f78-43e0-a343-79ba1f9a76ac/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95888.png",
-                "https://images.squarespace-cdn.com/content/6a1d59a6057a381f7532994f/156e9759-8f78-43e0-a343-79ba1f9a76ac/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95888.png",
-                "https://images.squarespace-cdn.com/content/6a1d59a6057a381f7532994f/156e9759-8f78-43e0-a343-79ba1f9a76ac/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95888.png",
-                "https://images.squarespace-cdn.com/content/6a1d59a6057a381f7532994f/156e9759-8f78-43e0-a343-79ba1f9a76ac/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95888.png",
-                "https://images.squarespace-cdn.com/content/6a1d59a6057a381f7532994f/156e9759-8f78-43e0-a343-79ba1f9a76ac/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95888.png",
-                "https://images.squarespace-cdn.com/content/6a1d59a6057a381f7532994f/156e9759-8f78-43e0-a343-79ba1f9a76ac/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95888.png",
-                "https://images.squarespace-cdn.com/content/6a1d59a6057a381f7532994f/156e9759-8f78-43e0-a343-79ba1f9a76ac/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95888.png",
-                "https://images.squarespace-cdn.com/content/6a1d59a6057a381f7532994f/156e9759-8f78-43e0-a343-79ba1f9a76ac/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95888.png"],
-                "name":"สล็อต888 เว็บสล็อตยอดนิยม รวม สล็อต PG พร้อมข้อมูล RTP เบื้องต้น",
-                "color":"สล็อตออนไลน์",
-                "category":"สล็อตเว็บตรง",
-                "description":"สล็อต888 รวมเกมสล็อตยอดนิยมและหมวด สล็อต PG ไว้ให้เลือกอย่างเป็นระเบียบ พร้อมข้อมูล RTP เบื้องต้น หน้าเว็บใช้งานง่าย รองรับมือถือ และเหมาะสำหรับผู้เล่นไทยที่ต้องการเลือกเกมได้สะดวก",
-                "aggregateRating":
-                {
-                    "@type":"AggregateRating","ratingValue":4.6,"reviewCount":332,"bestRating":5,"worstRating":1},
-                    "review":null,
-                    "offers":
-                    {
-                        "@type":"Offer",
-                        "priceCurrency":"THB",
-                        "price":7350,
-                        "availability":"InStock",
-                        "priceSpecification":
-                        {
-                            "@type":"UnitPriceSpecification",
-                            "priceType":"https://schema.org/StrikethroughPrice",
-                            "price":10500,
-                            "priceCurrency":"THB"
-                        },
-                        "shippingDetails":
-                        {
-                            "@context":"https://schema.org",
-                            "@type":"OfferShippingDetails",
-                            "shippingRate":
-                            {
-                                "@type":"MonetaryAmount",
-                                "value":0,
-                                "currency":"THB"
-                            },
-                            "shippingDestination":
-                            {
-                                "@type":"DefinedRegion",
-                                "addressCountry":"TH"
-                            }
-                        },
-                        "seller":
-                        {
-                            "@type":"Organization",
-                            "name":"สล็อต888",
-                            "url":"https://lafavelabali.com/gallery/"
-                        },
-                        "itemCondition":"https://schema.org/NewCondition"
-                    },
-                    "material":"Textile Upper",
-                    "video":[],
-                    "audience":
-                    {
-                        "@type":"PeopleAudience",
-                        "suggestedGender":"Unisex"
-                    },
-                    "size":"4 UK"
                 }]
             }
         </script>
